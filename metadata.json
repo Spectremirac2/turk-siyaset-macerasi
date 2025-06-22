@@ -1,0 +1,6 @@
+{
+  "name": "Türk Siyaset Macerası",
+  "description": "A text-based adventure game where users navigate the Turkish political landscape, making choices that impact their career and stats. Features AI-generated narratives and images using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
